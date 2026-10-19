@@ -183,7 +183,7 @@ Choose an appropriate open-source license and include its text in a `LICENSE` fi
 **Platform:** ESP32  
 **Category:** AI, IoT, Embedded Systems, Voice Interfaces
 
-If you find this project interesting, consider starring the repository ⭐.
+
 
 
 
