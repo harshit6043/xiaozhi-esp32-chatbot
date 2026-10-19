@@ -97,8 +97,6 @@ git clone https://github.com/harshit6043
 cd XiaoChi-Chatbot
 ```
 
-Replace the placeholder with your GitHub repository URL.
-
 ### 2. Configure the ESP32 environment
 
 1. Install the Arduino IDE or PlatformIO.
@@ -109,8 +107,6 @@ Replace the placeholder with your GitHub repository URL.
 ### 3. Configure credentials
 
 Provide your Wi-Fi credentials and cloud service credentials through a private configuration file or a secure secrets mechanism.
-
-Never commit API keys, passwords, access tokens, or Wi-Fi credentials to a public repository.
 
 ### 4. Configure the hardware
 
