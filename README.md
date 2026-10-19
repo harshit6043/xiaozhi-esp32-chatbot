@@ -93,7 +93,7 @@ Install only the libraries required by your actual firmware.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/harshit6043
 cd XiaoChi-Chatbot
 ```
 
