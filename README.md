@@ -165,13 +165,6 @@ Speech recognition, AI inference, and text-to-speech may be separate cloud servi
 - Animated OLED status interface
 - Interruptible speech playback
 
-## 🤝 Contributing
-
-Suggestions, bug reports, and improvements are welcome. Fork the repository, create a feature branch, and submit a pull request.
-
-## 📄 License
-
-Choose an appropriate open-source license and include its text in a `LICENSE` file before publishing.
 
 ## 👨‍💻 Project
 
